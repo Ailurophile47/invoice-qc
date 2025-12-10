@@ -1,0 +1,8 @@
+pdfplumber
+pydantic
+fastapi
+uvicorn
+typer
+python-multipart
+
+

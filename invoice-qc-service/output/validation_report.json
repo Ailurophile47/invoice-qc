@@ -1,0 +1,35 @@
+{
+  "results": [
+    {
+      "invoice_id": null,
+      "is_valid": false,
+      "errors": [
+        {
+          "code": "MISSING_INVOICE_NUMBER",
+          "message": "Invoice number must not be empty.",
+          "field": "invoice_number"
+        },
+        {
+          "code": "MISSING_SELLER_NAME",
+          "message": "Seller name must not be empty.",
+          "field": "seller_name"
+        },
+        {
+          "code": "MISSING_BUYER_NAME",
+          "message": "Buyer name must not be empty.",
+          "field": "buyer_name"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_invoices": 1,
+    "valid_invoices": 0,
+    "invalid_invoices": 1,
+    "top_errors": [
+      "MISSING_INVOICE_NUMBER",
+      "MISSING_SELLER_NAME",
+      "MISSING_BUYER_NAME"
+    ]
+  }
+}
