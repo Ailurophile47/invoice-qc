@@ -2,10 +2,9 @@
 Command-line interface for the Invoice QC Service.
 
 Usage examples:
-
-    python -m invoice_qc.cli extract --pdf-dir sample_pdfs --output output/extracted.json
-    python -m invoice_qc.cli validate --input output/extracted.json --report output/validation_report.json
-    python -m invoice_qc.cli full-run --pdf-dir sample_pdfs --report output/validation_report.json
+    py -m invoice_qc.cli extract --pdf-dir sample_pdfs --output output/extracted.json
+    py -m invoice_qc.cli validate --input output/extracted.json --report output/validation_report.json
+    py -m invoice_qc.cli full-run --pdf-dir sample_pdfs --report output/validation_report.json
 """
 
 from __future__ import annotations

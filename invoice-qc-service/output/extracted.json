@@ -7,94 +7,178 @@
     "seller_tax_id": null,
     "buyer_name": null,
     "buyer_tax_id": null,
-    "currency": "EUR",
+    "currency": null,
     "net_total": null,
     "tax_amount": null,
     "gross_total": null,
     "line_items": [
       {
-        "description": "Seite  von",
+        "description": "S e i t e  v o n",
         "quantity": 1.0,
         "unit_price": 1.0,
         "line_total": 1.0
       },
       {
-        "description": "JKL Corporation Bestellung AUFNR im Auftrag von",
-        "quantity": 234953.0,
-        "unit_price": 293479054.0,
-        "line_total": 68953784174462.0
-      },
-      {
-        "description": "Softwareunternehmen \u00b7 Philipp-Ott-Str. , S\u00fcd Lenjaberg, SN  Kundenanschrift",
-        "quantity": 64.0,
-        "unit_price": 48103.0,
-        "line_total": 3078592.0
-      },
-      {
-        "description": "Ihre Faxnummer: -",
-        "quantity": 800.0,
-        "unit_price": 78787878.0,
-        "line_total": 63030302400.0
-      },
-      {
-        "description": "Bestellung AUFNR vom .",
-        "quantity": 234953.0,
-        "unit_price": 2.05,
-        "line_total": 2022.0
-      },
-      {
-        "description": "Mann, Mister /",
-        "quantity": 4380292.0,
-        "unit_price": 30.0,
-        "line_total": 190909090.0
-      },
-      {
-        "description": "Tage % Skonto",
-        "quantity": 0.0,
-        "unit_price": 20.0,
-        "line_total": 0.0
-      },
-      {
-        "description": "LED-Monitore '  VE  VE= St\u00fcck",
-        "quantity": 1.0,
-        "unit_price": 12.0,
+        "description": "J K L C o r p o r a t i o n B e s t e l l u n g A U F N R       i m A u f t r a g v o n",
+        "quantity": 2.0,
+        "unit_price": 3.0,
         "line_total": 4.0
       },
       {
-        "description": "Interne Mat.Nr:   pro  VE",
-        "quantity": 48805.0,
-        "unit_price": 160000.0,
+        "description": "S o f t w a r e u n t e r n e h m e n \u00b7 P h i l i p p - O t t - S t r .   , S \u00fc d L e n j a b e r g , S N      K u n d e n a n s c h r i f t",
+        "quantity": 6.0,
+        "unit_price": 4.0,
+        "line_total": 4.0
+      },
+      {
+        "description": "P h i l i p p - O t t - S t r",
+        "quantity": 6.0,
+        "unit_price": 4.0,
+        "line_total": 24.0
+      },
+      {
+        "description": "V i v i e n g r \u00fc n , S H",
+        "quantity": 5.0,
+        "unit_price": 0.0,
+        "line_total": 6.0
+      },
+      {
+        "description": "S \u00fc d L e n j a b e r g , S N",
+        "quantity": 4.0,
+        "unit_price": 8.0,
         "line_total": 1.0
       },
       {
-        "description": "USB-Maus  VE  VE= St\u00fcck",
+        "description": "I h r e F a x n u m m e r",
+        "quantity": 0.0,
+        "unit_price": 8.0,
+        "line_total": 0.0
+      },
+      {
+        "description": "B e s t e l l u n g A U F N R       v o m",
+        "quantity": 2.0,
+        "unit_price": 3.0,
+        "line_total": 4.0
+      },
+      {
+        "description": "M a n n , M i s t e r    /",
+        "quantity": 4.0,
+        "unit_price": 3.0,
+        "line_total": 8.0
+      },
+      {
+        "description": "2 3 4 2 1 5",
+        "quantity": 2.0,
+        "unit_price": 3.0,
+        "line_total": 4.0
+      },
+      {
+        "description": "P h i l i p p - O t t - S t r",
+        "quantity": 6.0,
+        "unit_price": 4.0,
+        "line_total": 24.0
+      },
+      {
+        "description": "S \u00fc d L e n j a b e r g , S N",
+        "quantity": 4.0,
+        "unit_price": 8.0,
+        "line_total": 1.0
+      },
+      {
+        "description": "T a g e  ,  % S k o n t o",
+        "quantity": 0.0,
+        "unit_price": 2.0,
+        "line_total": 0.0
+      },
+      {
+        "description": "L E D - M o n i t o r e   '  V E  V E =   S t \u00fc c k",
+        "quantity": 1.0,
+        "unit_price": 1.0,
+        "line_total": 2.0
+      },
+      {
+        "description": "L i e f . A r t . N r :          C",
+        "quantity": 0.0,
+        "unit_price": 0.0,
+        "line_total": 0.0
+      },
+      {
+        "description": "I n t e r n e M a t . N r :        ,     p r o  V E",
+        "quantity": 4.0,
+        "unit_price": 8.0,
+        "line_total": 8.0
+      },
+      {
+        "description": "K o s t e n s t e l l e",
+        "quantity": 1.0,
+        "unit_price": 9.0,
+        "line_total": 2.0
+      },
+      {
+        "description": "U S B - M a u s  V E  V E =   S t \u00fc c k",
         "quantity": 2.0,
         "unit_price": 2.0,
         "line_total": 1.0
       },
       {
-        "description": "Interne Mat.Nr:   pro  VE",
-        "quantity": 49786.0,
-        "unit_price": 160000.0,
-        "line_total": 1.0
+        "description": "L i e f . A r t . N r :          C",
+        "quantity": 0.0,
+        "unit_price": 0.0,
+        "line_total": 0.0
       },
       {
-        "description": "mechanische Tastatur  VE  VE= St\u00fcck",
+        "description": "I n t e r n e M a t . N r :        ,     p r o  V E",
+        "quantity": 4.0,
+        "unit_price": 9.0,
+        "line_total": 7.0
+      },
+      {
+        "description": "K o s t e n s t e l l e",
+        "quantity": 1.0,
+        "unit_price": 9.0,
+        "line_total": 2.0
+      },
+      {
+        "description": "m e c h a n i s c h e T a s t a t u r  V E  V E =    S t \u00fc c k",
         "quantity": 3.0,
         "unit_price": 5.0,
         "line_total": 1.0
       },
       {
-        "description": "Kostenstelle:   pro  VE",
-        "quantity": 19257.0,
-        "unit_price": 240000.0,
-        "line_total": 1.0
+        "description": "L i e f . A r t . N r :         C",
+        "quantity": 0.0,
+        "unit_price": 0.0,
+        "line_total": 0.0
       },
       {
-        "description": "MwSt. % EUR",
-        "quantity": 1900.0,
-        "unit_price": 4104.0,
-        "line_total": 7797600.0
+        "description": "I n t e r n e M a t . N r",
+        "quantity": 2.0,
+        "unit_price": 3.0,
+        "line_total": 3.0
+      },
+      {
+        "description": "K o s t e n s t e l l e :        ,     p r o  V E",
+        "quantity": 1.0,
+        "unit_price": 9.0,
+        "line_total": 2.0
+      },
+      {
+        "description": "G e s a m t w e r t E U R",
+        "quantity": 2.0,
+        "unit_price": 1.0,
+        "line_total": 6.0
+      },
+      {
+        "description": "M w S t .   ,   % E U R",
+        "quantity": 1.0,
+        "unit_price": 9.0,
+        "line_total": 0.0
+      },
+      {
+        "description": "G e s a m t w e r t i n k l . M w S t . E U R",
+        "quantity": 2.0,
+        "unit_price": 5.0,
+        "line_total": 7.0
       }
     ]
   }
